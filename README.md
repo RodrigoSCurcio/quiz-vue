@@ -1,24 +1,15 @@
 # quiz-project
 
-## Project setup
-```
-npm install
-```
+Status: Finalizado 👌🏼
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Aplicação utilizando Vue.js
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Tecnologias Usadas
++ vue
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Rodando a Aplicação
++ Faça o download da aplicação
++ Abra o editor de código de sua escolha e navegue até a pasta do projeto
++ Utilize o comando npm install ou yarn para instalar as dependências
++ Utilize o comando npm run serve ou yarn serve para compilar a aplicacao
