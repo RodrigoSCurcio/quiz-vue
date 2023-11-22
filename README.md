@@ -1,3 +1,5 @@
+![image](https://github.com/RodrigoSCurcio/quiz-vue/assets/59969422/637e2bde-f1ef-415c-a838-2473d3ab70f0)
+
 # quiz-project
 
 Status: Finalizado 👌🏼
